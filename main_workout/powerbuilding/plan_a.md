@@ -21,7 +21,7 @@
 4) Split squat
 5) Hip thrusts
 6) Leg extension
-7) Calf walks
+7) DB tip toe farmers carry (toe walks)
 
 **Day 4: Pull**
 1) Wide grip pull ups
