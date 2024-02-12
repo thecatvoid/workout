@@ -17,12 +17,11 @@
 7) Tricep kickbacks
 
 **Day 3: Leg**
-1) Sumo deadlift
-2) Squat
-3) Reverse lunge
-4) Leg extension
-5) Hip thrusts
-6) BB back Calf raises
+1) Squat
+2) Reverse lunge
+3) Leg extension
+4) Hip thrusts
+5) BB back Calf raises
 
 **Day 4: Pull**
 1) Wide grip pull ups
@@ -43,10 +42,10 @@
 7) Neck exercises
 
 **Day 6: Leg**
-1) Leg press
-2) Split squat
-3) Leg extension
-4) Farmers walk
+1) Sumo deadlift
+2) Leg press
+3) Split squat
+4) Leg extension
 5) Leg curl
 
 **Day 7: Rest / Active recovery / Cardio**
