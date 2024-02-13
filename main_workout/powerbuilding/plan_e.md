@@ -10,9 +10,9 @@
 **Day 2: Push**
 1) Bench press
 2) Dips
-3) Barbell overhead press (seated/smith)
-4) Barbell shrugs
-5) Decline dumbbell flys
+3) Decline DB flys
+4) Barbell overhead press (seated/smith)
+5) Barbell shrugs
 6) Dumbbell tricep extensions
 7) Tricep kickbacks
 
