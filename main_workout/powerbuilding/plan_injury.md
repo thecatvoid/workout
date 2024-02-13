@@ -22,7 +22,7 @@
 2) Walking BB lunges
 3) Leg press
 4) Hip thrusts
-5) Body weight calf raises
+5) BB back calf raises
 
 **Day 4: Pull**
 
