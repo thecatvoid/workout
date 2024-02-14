@@ -1,3 +1,4 @@
+### Push, Pull, Leg (PPL) split
 **Day 1: Pull**
 
 1) Wide grip pullups
@@ -24,23 +25,29 @@
 4) Hip thrusts
 5) BB back calf raises
 
-**Day 4: Pull**
+### Bodybuilding (Arnold) split
+**Day 4: Chest, Back**
 
-1) Lat pulldown
-2) Incline neck supported row
-3) Chest supported independent machine row
-4) Seated rows
-5) Bilaterl hammer curl
-6) Close grip palms up lat pulldown
-
-**Day 5: Push**
-
-1) Cable press
+1) DB bench press
 2) Machine flys
-3) DB pullover
-4) Egyption lateral raise
-5) Rear delt reverse flys
-6) neck
+3) Cable press
+4) DB pullover
+5) Lat pulldown
+6) Incline neck supported row
+7) Chest supported independent machine row
+8) Seated rows
+
+**Day 5: Shoulder, Arms**
+
+1) Shoulder press
+2) Egyption lateral raise
+3) Rear delt reverse flys
+4) Bilaterl hammer curl
+5) Close grip palms up lat pulldown
+6) Tricep pushdown (rope)
+7) DB tricep kickback
+8) Forearms
+9) Neck
 
 **Day 6: Leg**
 
