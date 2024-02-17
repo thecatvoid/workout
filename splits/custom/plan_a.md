@@ -1,63 +1,52 @@
-Day 1: Legs
-- Squats
-- Leg press
-- DB walking lunges
-- Leg extensions
-- Leg curls
+Day 1: Bicep, tricep, forearms
+1) Standing alternate db curl
+2) Spider curl
+3) Waiters curl
+4) Zottman curl
+5) Hammer curl
+6) Reverse curl
+7) Tricep pushdown (rope or bar)
+8) Tricep kickback
 
-Day 2: Chest, Middle back, Front/Side delts, Triceps
+Day 2: Legs
+1) Squats 4x5x3
+2) Leg press
+3) DB walking lunges
+4) Leg extensions
+5) Leg curls
 
-- Bench press
-- Flys
-- Pull Ups
-- Straight arm pulldown (rope or bar)
-- Rows
-- OHP
-- Lateral Raise
-- Tricep pushdown
-- Tricep kickback
+Day 3: Chest, Middle back, Front/Side delts
 
-Day 3: Spinal erector, glutes, traps, rhomboids, biceps
-- Deadlift
-- Shrugs
-- Reverse flys
-- Hip thrusts
-- Curl
+1) Bench press 4x8x3
+2) Flys
+3) Pull Ups
+4) Straight arm pulldown (rope or bar)
+5) Rows
+6) OHP
+7) Lateral Raise
+8) Tricep pushdown
 
-Day 4: Misc
-- Internal & external shoulder rotations
-- Face pulls
-- Farmers walk or DB famers carry
-- Hanging leg raises
-- Forearms
-- reverse curl
-- plate pinch
-- False grip hang
-- Dead hang/One arm hang
-- Step ups
-- Leg raises
-- Ab crunches
-- Cycling
-- Skipping
-- Calf raises
-- Neck
-- Calf/ankle - quad stretch
-- Gym ball stretch
+Day 4: Spinal erector, glutes, traps, rhomboids
+1) Deadlift 4x5x3
+2) Shrugs
+3) Reverse flys
+4) Hip thrusts
+5) curl
 
-Day 5: Chest, Middle back, Front/Side delts, Triceps
 
-- Bench press
-- Flys
-- Pull Ups
-- Rows
-- OHP
-- Lateral Raise
-- Tricep pushdown
-- Tricep kickback
+Day 5: Chest, Middle back, Front/Side delts
+
+1) Bench press 4x8x3
+2) Flys
+3) Pull Ups
+4) Rows
+5) OHP
+6) Lateral Raise
+7) Tricep pushdown
 
 Day 6: Spinal erector, glutes, traps, rhomboids, biceps
-- Deadlift
-- Shrugs
-- Reverse flys
-- Hip thrusts
-- Curl
+1) Deadlift 4x5x3
+2) Shrugs
+3) Reverse flys
+4) Hip thrusts
+5) curl
