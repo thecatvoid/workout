@@ -1,52 +1,52 @@
-Day 1: Bicep, tricep, forearms
-1) Standing alternate db curl
-2) Spider curl
-3) Waiters curl
-4) Zottman curl
-5) Hammer curl
-6) Reverse curl
-7) Tricep pushdown (rope or bar)
-8) Tricep kickback
+**Monday: Push**
+1) Bench press
+2) Dumbbell chest press
+3) Dips
+4) Barbell overhead press (seated/smith)
+5) Barbell shrugs
+6) Dumbbell tricep extensions
+7) Tricep kickbacks
 
-Day 2: Legs
-1) Squats 4x5x3
+**Tuesday: Leg**
+1) Squat
 2) Leg press
-3) DB walking lunges
-4) Leg extensions
-5) Leg curls
+3) Split squat
+4) Leg extension
+5) Leg curl
+6) Walking lunges
+7) Split squat
+8) Hip thrusts
+8) Leg extension
+10) DB tip toe farmers carry (toe walks)
+11) Standing BB calf raises (without knee bent and locked)
 
-Day 3: Chest, Middle back, Front/Side delts
+**Wednesday: Push**
+1) Floor press
+2) Seated machine press
+3) Dumbbell shoulder press
+4) Egyptian cable lateral raise
+5) Skull crushers
+6) Tricep pushdowns
+7) Neck
 
-1) Bench press 4x8x3
-2) Flys
-3) Pull Ups
-4) Straight arm pulldown (rope or bar)
-5) Rows
-6) OHP
-7) Lateral Raise
-8) Tricep pushdown
-
-Day 4: Spinal erector, glutes, traps, rhomboids
-1) Deadlift 4x5x3
+**Thursday: DL**
+1) Deadlift / Elavated Light high rep deadlift
 2) Shrugs
 3) Reverse flys
 4) Hip thrusts
-5) curl
+5) Back extensions
+6) Abs
 
+**Friday: Pull**
+1) Wide grip pull ups
+2) Seated cable row
+3) Bent over rows
+4) Lat pulldown
+5) Single arm dumbbell row
+6) Dumbbell pullover
+7) Back extensions (hyperextensions)
+8) Close grip palm up lat pulldown
+9) Strict dumbbell curl
+10) Cable curl
 
-Day 5: Chest, Middle back, Front/Side delts
-
-1) Bench press 4x8x3
-2) Flys
-3) Pull Ups
-4) Rows
-5) OHP
-6) Lateral Raise
-7) Tricep pushdown
-
-Day 6: Spinal erector, glutes, traps, rhomboids, biceps
-1) Deadlift 4x5x3
-2) Shrugs
-3) Reverse flys
-4) Hip thrusts
-5) curl
+**Sunday: Rest / Active recovery / Cardio**
