@@ -36,7 +36,7 @@
 5) Neck
 
 **Friday: DL**
-1) Deadlift / Elavated Light high rep deadlift
+1) Deadlift
 2) Shrugs
 3) Reverse flys
 4) Hip thrusts
