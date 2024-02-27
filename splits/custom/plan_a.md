@@ -1,13 +1,11 @@
 **Monday: Leg**
 1) Squat
 2) Leg press
-3) Split squat
-4) Leg extension
-5) Leg curl
-6) Walking lunges
-7) Split squat
-8) Leg extension
-9) Standing BB calf raises (without knee bent and locked)
+3) Lunges
+4) Split squat
+5) Leg extension
+6) Leg curl
+7) Standing BB calf raises (without knee bent and locked)
 
 **Tuesday: Chest**
 1) Bench press
