@@ -6,10 +6,8 @@
 5) Leg curl
 6) Walking lunges
 7) Split squat
-8) Hip thrusts
 8) Leg extension
-10) DB tip toe farmers carry (toe walks)
-11) Standing BB calf raises (without knee bent and locked)
+9) Standing BB calf raises (without knee bent and locked)
 
 **Tuesday: Chest**
 1) Bench press
