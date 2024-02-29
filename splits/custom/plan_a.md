@@ -50,5 +50,6 @@
 4) Skull crushers
 5) Tricep pushdowns
 6) Tricep kickbacks
+7) Forearms
 
 **Sunday: Rest / Active recovery / Cardio**
