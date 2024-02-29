@@ -6,6 +6,7 @@
 5) Leg extension
 6) Leg curl
 7) Standing BB calf raises (without knee bent and locked)
+8) Abs
 
 **Tuesday: Chest**
 1) Bench press
@@ -23,21 +24,24 @@
 5) Single arm dumbbell row
 6) Dumbbell pullover
 7) Back extensions (hyperextensions)
+8) Abs
 
 **Thursday: Shoulder**
 1) Barbell overhead press (seated/smith)
-2) Barbell shrugs
-3) Dumbbell shoulder press
-4) Egyptian cable lateral raise
-5) Neck
+2) Dumbbell shoulder press
+3) Upright row
+4) Lateral raise
+5) Egyptian cable lateral raise
+6) Neck
 
 **Friday: DL**
 1) Deadlift
-2) Shrugs
-3) Reverse flys
-4) Hip thrusts
-5) Back extensions
-6) Abs
+2) BB Shrugs
+3) Face pulls
+4) Reverse flys
+5) Hip thrusts
+6) Back extensions
+7) Abs
 
 **Saturday: Arm**
 1) Strict dumbbell curl
