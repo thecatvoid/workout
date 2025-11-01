@@ -32,7 +32,7 @@ loses focus, context switching, and cognitive overhead/complexity
 - As well as prevent overuse or injuries
 
 ### Achieved by:
-- Good technique, slow reps, feel muscle
+- Fair technique, full ROM, pump out the reps, controlled but fine tempo 
 - Low load/intensity
 - Moderate volume
 - Low frequency
